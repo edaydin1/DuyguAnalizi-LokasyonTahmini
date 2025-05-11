@@ -34,5 +34,9 @@ Regex: Yer isimlerini tespit etmek için düzenli ifadele
 
 
 
-https://github.com/user-attachments/assets/ac68c041-2123-4ad9-81a3-7466d75b07bb
+
+
+
+https://github.com/user-attachments/assets/63650493-85a8-4a9f-a08f-608384e883a6
+
 
